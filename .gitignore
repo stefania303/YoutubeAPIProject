@@ -1,3 +1,8 @@
 venvapi/
 __pycache__/
 .env
+logs/
+.vscode/
+data/
+*.pyc
+.venv/
